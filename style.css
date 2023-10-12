@@ -33,9 +33,9 @@ body article section#selling-points {
   flex-basis: 100%;
 }
 body section pre {
-  background: #000;
+  background-color: #000;
   border: 1px solid #ddd;
-  color: #666;
+  color: #2748b3;
   font-family: monospace;
   font-size: 15px;
   line-height: 1.6;
@@ -70,7 +70,7 @@ body .message, body .warning, body .error, body .success {
   border: 1px solid #ccc;
   padding: 16px;
   margin: 16px;
-  color: #2748b3;
+  color: #000;
   background-color: #000;
 }
 body .success {
