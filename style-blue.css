@@ -2,7 +2,7 @@
 /*variables*/
 body {
   font: 100% "Space Mono", monospace;
-  color: red;
+  color: blue;
   margin: 0px;
   padding: 16px;
   background-color: white;
@@ -33,9 +33,9 @@ body article section#selling-points {
   flex-basis: 100%;
 }
 body section pre {
-  background: white;
+  background-color: white;
   border: 1px solid #ddd;
-  color: red;
+  color: blue;
   font-family: monospace;
   font-size: 15px;
   line-height: 1.6;
